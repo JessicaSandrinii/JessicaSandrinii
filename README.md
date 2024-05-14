@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hello, I am Jessica Sandrini!! 👋
 
-<!--
-**JessicaSandrinii/JessicaSandrinii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! A dedicated individual with a passion for web development and a strong desire to make an impact in the tech industry. 💻
 
-Here are some ideas to get you started:
+## About Me
+I'm a passionate web developer who enjoys creating dynamic and interactive web experiences. In my free time, I love learning about new technologies and exploring creative ways to solve problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Projects
+Here are some of the projects I'm currently working on or have completed:
+
+1. **Project 1**: 🌍 My HTML and CSS School Project (includes some JavaScript).
+   [![MyTravelsSite](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jess-travels-project.vercel.app/aboutme.html) 
+
+2. **Project 2**:🎵 A Spotify Immersion (Made in Alura Webinar).
+   [![MyspotfyImmersion](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jessicasandrinii.github.io/Spotify-Immersion/) 
+
+## Get in Touch
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-sandrini-b225612b3/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jessica1438@gmail.com/) 
+
+## Technologies I Work With
+<div style="display: inline_block"><br/>
+  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+</div>
+
+<br/>
+
+Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities! 😊
