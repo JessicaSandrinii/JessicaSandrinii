@@ -14,6 +14,9 @@ Here are some of the projects I'm currently working on or have completed:
 2. **Project 2**:🎵 A Spotify Immersion (Made in Alura Webinar).
    [![MyspotfyImmersion](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jessicasandrinii.github.io/Spotify-Immersion/) 
 
+## My Studies:
+[My Javascript Challenges](https://github.com/stars/JessicaSandrinii/lists/javascript-challenges)
+
 ## Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-sandrini-b225612b3/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jessica1438@gmail.com/) 
