@@ -1,18 +1,23 @@
 # Hello, I am Jessica Sandrini!! 👋
 
-Welcome to my GitHub profile! A dedicated individual with a passion for web development and a strong desire to make an impact in the tech industry. 💻
+Welcome to my GitHub profile! </br>
+A dedicated individual with a passion for web development </br>
+and a strong desire to make an impact in the tech industry. 💻
 
 ## About Me
-I'm a passionate web developer who enjoys creating dynamic and interactive web experiences. In my free time, I love learning about new technologies and exploring creative ways to solve problems.
+I'm a passionate web developer who enjoys creating dynamic</br>
+and interactive web experiences. </br>
+In my free time, I love learning about new technologies and</br>
+exploring creative ways to solve problems.
 
 ## My Projects
-Here are some of the projects I'm currently working on or have completed:
+Some of the projects I'm currently working on or have completed:
 
-1. **Project 1**: 🌍 My HTML and CSS School Project (includes some JavaScript).
-   [![MyTravelsSite](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jess-travels-project.vercel.app/aboutme.html) 
+1. **Project 1**: 🌍
+   [My HTML and CSS School Project](https://jess-travels-project.vercel.app/aboutme.html) 
 
-2. **Project 2**:🎵 A Spotify Immersion (Made in Alura Webinar).
-   [![MyspotfyImmersion](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jessicasandrinii.github.io/Spotify-Immersion/) 
+2. **Project 2**:🎵 
+   [MyspotfyImmersion(Made in Alura Webinar)](https://jessicasandrinii.github.io/Spotify-Immersion/) 
 
 ## My Studies:
 [My Javascript Challenges](https://github.com/stars/JessicaSandrinii/lists/javascript-challenges)
